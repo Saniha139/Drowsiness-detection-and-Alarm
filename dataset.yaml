@@ -1,0 +1,10 @@
+path:  C:/Users/sanih/yolov5/data
+
+train: C:/Users/sanih/yolov5/data/images/train
+val: C:/Users/sanih/yolov5/data/images/val
+
+nc: 2
+
+names:
+  0: awake
+  1: drowsy
