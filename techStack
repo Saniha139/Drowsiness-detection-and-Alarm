@@ -1,8 +1,0 @@
-Tech Stack
-
-Language-  Python
-ML Model-  YOLOv5 (Custom Trained)
-Libraries-  OpenCV, Torch, NumPy, Winsound (for alarm)
-Execution-  Jupyter Notebook / Python Script (.py)
-Platform-  Local machine (Anaconda + virtual environment)
-Hardware-	  Laptop/PC with webcam
